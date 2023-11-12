@@ -28,6 +28,14 @@ Make sure to "Show Paint Dialog (F12)" Erase as much of the background garbage a
 
 ## Inkscape
 
+### Layers
+
+I have been assigning different types of images to different layers [shift-ctrl-l]. 
+The initial import is in a layer named "bitmap". Once traced, the outline is in a 
+layer called "trace". All the subsequent work, simplifying and framing, is in the
+default layer. The "trace" and "bitmap" layers can be hidden by default, but returned
+to as source material.
+
 
 ### Tracing an outline
 
