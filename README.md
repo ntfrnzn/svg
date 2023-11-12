@@ -31,7 +31,7 @@ Make sure to "Show Paint Dialog (F12)" Erase as much of the background garbage a
 
 ### Tracing an outline
 
-* _Import_ ... png as bitmap
+* _Import_ ... png as bitmap. 
 * _Path -> Trace Bitmap_  Use "Speckles" to remove the background static
 * _Object -> Transform_ to resize
 * _Object -> Fill and Stroke_ to remove fill, add stroke color
