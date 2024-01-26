@@ -28,6 +28,10 @@ Make sure to "Show Paint Dialog (F12)" Erase as much of the background garbage a
 
 ## Inkscape
 
+### Configuration
+
+_Display_units_ is under the menu _Document Properties_. Switch between _inches_, _millimeters_, & as desired.
+
 ### Layers
 
 I have been assigning different types of images to different layers [shift-ctrl-l].
