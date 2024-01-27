@@ -16,6 +16,11 @@ are enormous! The key idea is that we are reducing resolution, ruthlessly
 stripping away information that can't possibly be rendered in the form we
 want.
 
+## Photography
+
+Try to get a silhouette as best as possible. Hold the object up against an 
+unobstructed sky for maximum contrast. If using a white background, avoid shadows.
+
 ## IrFan View
 
 IrFan View is a bit limited, but it does run under windows easily. The key process
@@ -23,8 +28,10 @@ is "Decrease Color Depth..." which can convert your silhouette into a proper two
 color black-and-white image. Unfortunately, it's not very adjustable.
 
 Make sure to "Show Paint Dialog (F12)" Erase as much of the background garbage as possible.
+The paint bucket may be useful in erasing objects and boundaries.
 
-
+_Decrease Color Depth_ is under the _Image_ tab. Decrease to black and white and 
+evaluate whether you've got an image that can be reasonably traced.
 
 ## Inkscape
 
@@ -37,8 +44,8 @@ _Display_units_ is under the menu _Document Properties_. Switch between _inches_
 I have been assigning different types of images to different layers [shift-ctrl-l].
 The initial import is in a layer named "bitmap". Once traced, the outline is in a
 layer called "trace". All the subsequent work, simplifying and framing, is in the
-default layer. The "trace" and "bitmap" layers can be hidden by default, but returned
-to as source material.
+default or "frame" layer. The "trace" and "bitmap" layers can be hidden by default, 
+but consulted as source material.
 
 
 ### Tracing an outline
